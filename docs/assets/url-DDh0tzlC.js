@@ -1,0 +1,1 @@
+var e=`/api`.replace(/\/+$/,``);function t(t){if(!t.startsWith(`/`)||t.startsWith(`//`))throw Error(`接口路径必须以单个 / 开头`);return e+t}export{t};

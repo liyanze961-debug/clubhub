@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "社团通",
+  "short_name": "社团通",
+  "description": "社团活动、报名签到与收支记录，手机打开就能用。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#4366c6",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
